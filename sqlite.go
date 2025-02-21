@@ -7,7 +7,7 @@ import (
 
 	"gorm.io/gorm/callbacks"
 
-	_ "github.com/pengge/go-wxsqlite3"
+	_ "github.com/samwafgo/go-wxsqlite3"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/logger"

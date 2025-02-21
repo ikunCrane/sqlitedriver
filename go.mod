@@ -1,4 +1,4 @@
-module github.com/pengge/sqlitedriver
+module github.com/samwafgo/sqlitedriver
 
 go 1.20
 

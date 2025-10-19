@@ -1,4 +1,4 @@
-module github.com/samwafgo/sqlitedriver
+module github.com/ikunCrane/sqlitedriver
 
 go 1.20
 
